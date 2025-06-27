@@ -4,7 +4,6 @@ body {
     max-width: 500px;
     margin: auto;
     padding: 20px;
-    text-align: center;
 }
 
 .logo-container {
@@ -31,6 +30,11 @@ body {
 main {
     font-family: "DM Mono", monospace;
     font-size: 1rem;
+    text-align: left;
+}
+
+.center-content {
+    text-align: center;
 }
 
 .app-stores {
